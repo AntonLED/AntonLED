@@ -1,16 +1,55 @@
-## Hi there 👋
+# Anton Ledrov 🤓
 
-<!--
-**AntonLED/AntonLED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain researcher and developer. Computational physics background, now
+working on DeFi (AMM mechanism design, analytics, math and physics of DeFi
+primitives).
 
-Here are some ideas to get you started:
+MIPT -- MSc, Blockchain Department (2025–2027) // BSc, Computational Physics
+(2021–2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research
+
+### Trade-Size-Aware Dynamic Fees for Impermanent Loss Mitigation in AMMs
+Presented at [BCRA 2026](https://bcra-conf.seedsbit.com/) (proceedings forthcoming) -- Anton Ledrov, Ignat Melnikov, Irina Lebedeva, Dmitrii Umnov,
+George Ovchinnikov, Yury Yanovich
+
+A fee mechanism that conditions on trade size to reduce impermanent loss for
+liquidity providers.
+[Code and simulations](https://github.com/AntonLED/DEX-Dynamic-Fees-Research)
+
+### Collective dynamics in active matter 
+BSc thesis, MIPT (2025)
+
+Non-equilibrium statistical physics of many interacting self-propelled agents:
+how local interaction rules produce collective behaviour and abrupt transitions. [Code and simulations](https://github.com/AntonLED/bach_degree)
+
+---
+
+## Current focus
+
+AMM mechanism design, and risk in lending and stablecoin protocols -- liquidation
+mechanics, oracle behaviour, and how parameter choices hold up under stress.
+
+Coming from computational physics, I tend to treat these as dynamical systems
+with feedback: what matters is not only how far a price moves, but whether the
+protocol can relax faster than it is driven.
+
+---
+
+## Background
+
+- **Sber Blockchain Lab** -- researcher. Blockchain architecture, payments
+  infra, DeFi analytics (0.5y)
+- **DEPHAN LLC** -- embedded C++ developer, lidar software (1.5y)
+- **MIPT Autonomous Energy Center** -- automation and DevOps (2.5y)
+- **Student Startup grant, 1M RUB** -- decentralized energy supply network
+
+**Stack** -- Solidity, Python, C/C++ // agent-based simulation, numerical modelling, on-chain data
+
+---
+
+## Contact
+
+[Telegram](https://t.me/lEdrov13) // [X](https://x.com/antonled13) // al3406099@gmail.com
