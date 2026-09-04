@@ -41,7 +41,7 @@ protocol can relax faster than it is driven.
 ## Background
 
 - **Sber Blockchain Lab** -- researcher. Blockchain architecture, payments
-  infra, DeFi analytics (0.5y)
+  infra, DeFi analytics (1.0y)
 - **DEPHAN LLC** -- embedded C++ developer, lidar software (1.5y)
 - **MIPT Autonomous Energy Center** -- automation and DevOps (2.5y)
 - **Student Startup grant, 1M RUB** -- decentralized energy supply network
