@@ -11,8 +11,8 @@ MIPT -- MSc, Blockchain Department (2025–2027) // BSc, Computational Physics
 
 ## Research
 
-### Trade-Size-Aware Dynamic Fees for Impermanent Loss Mitigation in AMMs
-Presented at [BCRA 2026](https://bcra-conf.seedsbit.com/) (proceedings forthcoming) -- Anton Ledrov, Ignat Melnikov, Irina Lebedeva, Dmitrii Umnov,
+### [Trade-Size-Aware Dynamic Fees for Impermanent Loss Mitigation in AMMs](https://arxiv.org/abs/2609.27937)
+Presented at [BCRA 2026](https://bcra-conf.seedsbit.com/)  -- Anton Ledrov, Ignat Melnikov, Irina Lebedeva, Dmitrii Umnov,
 George Ovchinnikov, Yury Yanovich
 
 A fee mechanism that conditions on trade size to reduce impermanent loss for
